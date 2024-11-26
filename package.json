@@ -1,0 +1,12 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "This is a new repo, i would be learning skills to be a backend developer using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
